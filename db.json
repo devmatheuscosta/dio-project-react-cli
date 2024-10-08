@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Matheus Costa",
+      "email": "matheus@costa",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Katiucia Oliveira",
+      "email": "katiucia@oliveira",
+      "senha": "123456"
+    },
+    {
+      "id": "5130",
+      "name": "Matheus Costa",
+      "email": "matheus@costa",
+      "password": "123456"
+    },
+    {
+      "id": "3859",
+      "name": "Matheus Costa",
+      "email": "matheus@costa",
+      "password": "123456"
+    },
+    {
+      "id": "9489",
+      "name": "Matheus Costa",
+      "email": "matheus@costa",
+      "password": "123456"
+    }
+  ]
+}
